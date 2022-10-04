@@ -1,4 +1,4 @@
-#include <bits/stdc++.h> 
+#include <iostream.h> 
 using namespace std;
 float mean(float arr[], int n){
     float sum = 0;
